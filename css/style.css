@@ -6,7 +6,7 @@ body, html {
   display: block;
   text-align: center;
   background-image: "./images/white-wood.jpg";
-  background-size: cover;
+  background-size: fixed;
 }
 
 .container, h1 {
