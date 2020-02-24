@@ -7,7 +7,7 @@ body, html {
   text-align: center;
   background-image: url("../images/white-wood.jpg");
   background-size: fixed;
-  background: linear-gradient(to right, #FFF, #000);
+  
 }
 
 .container, h1 {
